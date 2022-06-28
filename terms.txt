@@ -1,9 +1,10 @@
-Expression
+Expression: In computer science, an expression is a syntactic entity in a programming language that may be evaluated to determine its value. It is a combination of one or more constants, variables, functions, and operators that the programming language interprets and computes to produce another value
 
-Operator
+Operator:An operator in a programming language is a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
 
-Evaluate
+Evaluate:In some programming languages, eval , short for the English evaluate, is a function which evaluates a string as though it were an expression in the language, and returns a result; in others, it executes multiple lines of code as though they had been included instead of the line including the eval .
 
-Precedence
+Precedence:
+Operator precedence specifies the order of operations in expressions that contain more than one operator. Operator associativity specifies whether, in an expression that contains multiple operators with the same precedence, an operand is grouped with the one on its left or the one on its right.
 
-Floating-point
+Floating-point:In programming, a floating-point or float is a variable type that is used to store floating-point number values. A floating-point number is one where the position of the decimal point can "float" rather than being in a fixed position within a number.
